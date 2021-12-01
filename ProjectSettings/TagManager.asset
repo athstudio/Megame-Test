@@ -10,6 +10,10 @@ TagManager:
   - Blue-Box
   - Green-Box
   - Red-Box
+  - Box-1
+  - Box-2
+  - Box-3
+  - Box-4
   layers:
   - Default
   - TransparentFX
